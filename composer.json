@@ -1,0 +1,16 @@
+{
+    "name": "ridhuandaud/assesment",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ridhuandaud\\Assesment\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Ridhuan Daud",
+            "email": "ridhuan.daud@gmail.com"
+        }
+    ],
+    "require": {}
+}
